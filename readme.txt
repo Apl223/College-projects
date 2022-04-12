@@ -1,2 +1,2 @@
 Projects and assignments that I did at school. Python/SQL.
-Libraries: beatifulsoup, sqlite, Flask, pandas. 
+Libraries: BeatifulSoup, sqlite, Flask, pandas. 
