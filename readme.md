@@ -10,7 +10,7 @@ This where we began to populate databases and use SQL queries in our scripts a l
 ### Data-Acquisition and Management IS 362
 Taking what we learned in Software Application Programming
 and applying it to datasets for analysis. We looked at weather and
-airline performance sets. We used a bit of Power BI and Tableau as well.
+airline performance sets. 
 
 ### RealEstatePrices 
 
