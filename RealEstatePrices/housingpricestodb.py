@@ -7,15 +7,6 @@ from sklearn.ensemble import RandomForestRegressor
 import sqlite3
 
 def MAE(X,y):
-	"""
-	home_data = pd.read_csv(iowa_file_path)
-	# Create target object and call it y
-	y = home_data.SalePrice
-
-	# Create X
-	features = ['LotArea', 'YearBuilt', '1stFlrSF', '2ndFlrSF', 'FullBath', 'BedroomAbvGr', 'TotRmsAbvGrd']
-	X = home_data[features]
-	"""
 
 	# Split into validation and training data
 	train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=1)
