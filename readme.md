@@ -6,8 +6,6 @@ Libraries: BeatifulSoup, sqlite, Flask, pandas, seaborn, matplotlib.
 ### Software Application Programming II
 Learning more OOP concepts with lists and dictionaries.
 This where we began to populate databases and use SQL queries in our scripts a long with Flask.
-Built a machine learning Flask application where the user provides a CSV to be parsed into 
-training and validation data for different models. Used scikit-learn and pandas libraries.
 
 ### Data-Acquisition and Management IS 362
 Taking what we learned in Software Application Programming
@@ -15,8 +13,8 @@ and applying it to datasets for analysis. We looked at weather and
 airline performance sets. 
 
 ### RealEstatePrices 
-
-Displaying predictions for real estate prices with Flask.
+Built a machine learning Flask application where the user provides a CSV to be parsed into 
+training and validation data for different models. Used scikit-learn and pandas libraries.
 
 ### AnalyzingStocks
 
