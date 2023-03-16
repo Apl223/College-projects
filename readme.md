@@ -16,10 +16,10 @@ airline performance sets.
 Built a machine learning Flask application where the user provides a CSV to be parsed into 
 training and validation data for different models. Used scikit-learn and pandas libraries.
 
-### AnalyzingStocks
+### [AnalyzingStocks](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/AnalyzingStocks-main)
 
 Web scraping stock sites, creating and inserting the data into a database with SQL, and using Flask to display it.
 
-### Mushrooms
+### [Mushrooms](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/Mushrooms)
 
 Predicting which features of a mushroom correlate to being poisonous. Used pandas, numpy, seaborn and matplotlib libraries. 
