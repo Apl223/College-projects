@@ -6,6 +6,8 @@ Libraries: BeatifulSoup, sqlite, Flask, pandas, seaborn, matplotlib.
 ### Software Application Programming II
 Learning more OOP concepts with lists and dictionaries.
 This where we began to populate databases and use SQL queries in our scripts a long with Flask.
+Built a machine learning Flask application where the user provides a CSV to be parsed into 
+training and validation data for different models. Used scikit-learn and pandas libraries.
 
 ### Data-Acquisition and Management IS 362
 Taking what we learned in Software Application Programming
@@ -22,4 +24,4 @@ Web scraping stock sites, creating and inserting the data into a database with S
 
 ### Mushrooms
 
-Predicting which features of a mushroom correlate to being poisonous.
+Predicting which features of a mushroom correlate to being poisonous. Used pandas, numpy, seaborn and matplotlib libraries. 
