@@ -3,15 +3,6 @@
 Projects and assignments that I did at school with Jupyter Notebook. Python/SQL.
 Libraries: BeatifulSoup, sqlite, Flask, pandas, seaborn, matplotlib. 
 
-### [Software Application Programming II](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/Software-Application-Programming-II-IS-211-main)
-Learning more OOP concepts with lists and dictionaries.
-This where we began to populate databases and use SQL queries in our scripts a long with Flask.
-
-### [Data-Acquisition and Management IS 362](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/Data-Acquisition-and-Management-IS-362-main)
-Taking what we learned in Software Application Programming
-and applying it to datasets for analysis. We looked at weather and
-airline performance sets. 
-
 ### [Real estate prices](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/RealEstatePrices)
 Populating prediction results into a SQLite3 database then querying and displaying their results with Flask.
 
@@ -22,3 +13,12 @@ Web scraping stock sites, creating and inserting the data into a database with S
 
 ### [Poisonous mushroom features](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/Mushrooms)
 Predicting which features of a mushroom correlate to being poisonous. Used pandas, numpy, seaborn and matplotlib libraries. 
+
+### [Software Application Programming II](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/Software-Application-Programming-II-IS-211-main)
+Learning more OOP concepts with lists and dictionaries.
+This where we began to populate databases and use SQL queries in our scripts a long with Flask.
+
+### [Data-Acquisition and Management IS 362](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/Data-Acquisition-and-Management-IS-362-main)
+Taking what we learned in Software Application Programming
+and applying it to datasets for analysis. We looked at weather and
+airline performance sets. 
