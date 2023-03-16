@@ -12,7 +12,7 @@ Taking what we learned in Software Application Programming
 and applying it to datasets for analysis. We looked at weather and
 airline performance sets. 
 
-### RealEstatePrices 
+### [RealEstatePrices] (https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/RealEstatePrices)
 Built a machine learning Flask application where the user provides a CSV to be parsed into 
 training and validation data for different models. Used scikit-learn and pandas libraries.
 
