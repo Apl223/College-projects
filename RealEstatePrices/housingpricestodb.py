@@ -26,7 +26,6 @@ def MAE(X,y):
 	iowa_model.fit(train_X, train_y)
 	val_predictions = iowa_model.predict(val_X)
 	val_mae2 = mean_absolute_error(val_predictions, val_y)
-	#print("Validation MAE for best value of max_leaf_nodes: {:,.0f}".format(val_mae2))
 
 	rf_model = RandomForestRegressor()
 	# fit your model
@@ -34,7 +33,6 @@ def MAE(X,y):
 	# Calculate the mean absolute error of your Random Forest model on the validation data
 	rf_val_predictions = rf_model.predict(val_X)
 	rf_val_mae = mean_absolute_error(rf_val_predictions, val_y)
-	#print("Validation MAE for best value of max_leaf_nodes: {:,.0f}".format(rf_val_mae))
 
 	MAE = (val_mae1, val_mae2, rf_val_mae)
 
