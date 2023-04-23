@@ -11,7 +11,7 @@ This program requires the user to input the url or path to the csv file that wil
 ### [Analyzing stocks](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/AnalyzingStocks-main)
 Web scraping stock sites with BeautifulSoup, creating and inserting the data into a SQLite3 database, and using Flask to display it.
 
-### [Poisonous mushroom features](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/Mushrooms)
+### [Poisonous mushroom features](https://github.com/Apl223/College-projects/blob/main/MushroomClassification/mushroom.ipynb)
 Predicting which features of a mushroom correlate to being poisonous. Used pandas, numpy, seaborn and matplotlib libraries. 
 
 ### [Software Application Programming II](https://github.com/Apl223/College_and-Machine-Learning-projects/tree/main/Software-Application-Programming-II-IS-211-main)
